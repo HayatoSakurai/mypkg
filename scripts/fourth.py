@@ -12,7 +12,6 @@ def cb(message):
 if __name__ == '__main__':
     rospy.init_node('fourth')
     sub = rospy.Subscriber('twice', Int32, cb)
-    rospy.spin()
     pub = rospy.Publisher('fourth', Int32, queue_size=1)
     rate = rospy.Rate(10)
     while not rospy.is_shutdown():
