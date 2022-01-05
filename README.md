@@ -10,4 +10,5 @@ Raspberry Pi 4
 
 # インストール
 $ cd ~/catkin_ws/src/
-$ git clone 
+$ git clone https://github.com/HayatoSakurai/mypkg.git
+
