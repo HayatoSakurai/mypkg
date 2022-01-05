@@ -10,9 +10,23 @@ Raspberry Pi 4
 
 # インストール
 ```
+$ roscore &
 $ cd ~/catkin_ws/src  
 $ git clone https://github.com/HayatoSakurai/mypkg.git  
 $ ( cd ~/catkin_ws/ && catkin_make )  
 $ source ~/.bashrc  
 ```
-# 
+# 実行
+1. 端末を3つ用意する  
+2. 一つ目の端末で以下を実行する  
+```
+$ rosrun mypkg count.py
+```
+3. 二つ目の端末で以下を実行する  
+```
+$ rosrun mypkg twice.py
+```
+4. 三つ目の端末で以下を実行する
+```
+$ rosrun mypkg fourth.py
+```
