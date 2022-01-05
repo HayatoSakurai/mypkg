@@ -24,7 +24,7 @@ $ chmod +x count.py
 $ chmod +x twice.py
 $ chmod +x fourth.py
 ```
-2. 端末を3つ用意する  
+2. 端末を三つ用意する  
 3. 一つ目の端末で以下を実行する  
 ```
 $ rosrun mypkg count.py
