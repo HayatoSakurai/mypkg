@@ -17,16 +17,23 @@ $ ( cd ~/catkin_ws/ && catkin_make )
 $ source ~/.bashrc  
 ```
 # 実行
-1. 端末を3つ用意する  
-2. 一つ目の端末で以下を実行する  
+1. パーミッションを設定する
+```
+$ cd ~/catkin_ws/src/mypkg/scripts
+$ chmod +x count.py
+$ chmod +x twice.py
+$ chmod +x fourth.py
+```
+2. 端末を3つ用意する  
+3. 一つ目の端末で以下を実行する  
 ```
 $ rosrun mypkg count.py
 ```
-3. 二つ目の端末で以下を実行する  
+4. 二つ目の端末で以下を実行する  
 ```
 $ rosrun mypkg twice.py
 ```
-4. 三つ目の端末で以下を実行する
+5. 三つ目の端末で以下を実行する
 ```
 $ rosrun mypkg fourth.py
 ```
