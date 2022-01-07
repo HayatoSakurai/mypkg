@@ -65,4 +65,4 @@ fourth.pyは講義内のtwice.pyをもとに一部変更したノードとなっ
 16行目:10を1に変更
 
 #  ライセンス
-BSD 3-Clause License
+BSD 3-Clause "New" or "Revised" License
