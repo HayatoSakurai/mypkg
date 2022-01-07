@@ -52,21 +52,21 @@ https://github.com/HayatoSakurai
   
 https://github.com/HayatoSakurai/mypkg/blob/main/scripts/count.py  
 上記リンクのcount.pyにおいて変更点は以下になります  
-7行目:10を1に変更  
+10行目:10を1に変更  
   
 https://github.com/HayatoSakurai/mypkg/blob/main/scripts/twice.py  
 上記リンクのtwice.pyにおいて変更点は以下になります  
-10行目:rospy.loginfo(n)を追加  
-16行目:10を1に変更  
+13行目:rospy.loginfo(n)を追加  
+19行目:10を1に変更  
   
 https://github.com/HayatoSakurai/mypkg/blob/main/scripts/fourth.py  
 fourth.pyは講義内のtwice.pyをもとに一部変更したノードとなっています  
 上記リンクのfourth.pyにおいて変更点は以下になります  
-10行目:rospy.loginfo(n)を追加  
-13行目:twiceをfourthに変更  
-14行目:count_upをtwiceに変更  
-15行目:twiceをfourthに変更  
-16行目:10を1に変更
+13行目:rospy.loginfo(n)を追加  
+16行目:twiceをfourthに変更  
+17行目:count_upをtwiceに変更  
+18行目:twiceをfourthに変更  
+19行目:10を1に変更
 
 #  ライセンス
 BSD 3-Clause "New" or "Revised" License
