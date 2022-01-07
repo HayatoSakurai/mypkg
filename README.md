@@ -52,7 +52,14 @@ https://github.com/HayatoSakurai
   
 https://github.com/HayatoSakurai/mypkg/blob/main/scripts/twice.py  
 上記リンクのtwice.pyにおいて10,16行目  
+10行目:rospy.loginfo(n)を追加  
+16行目:10を1に変更
   
 https://github.com/HayatoSakurai/mypkg/blob/main/scripts/fourth.py  
 fourth.pyは講義内のtwice.pyをもとに一部変更したノードとなっています  
-上記リンクのfourth.pyにおいて10,13,14,15,16行目
+上記リンクのfourth.pyにおいて10,13,14,15,16行目  
+10行目:rospy.loginfo(n)を追加  
+13行目:twiceをfourthに変更  
+14行目:count_upをtwiceに変更  
+15行目:twiceをfourthに変更  
+16行目:10を1に変更
