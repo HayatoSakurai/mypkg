@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 #SPDX-License-Identifier: BSD 3-Clause "New" or "Revised" License
 #Copyright (c) 2022 Hayato Sakurai and Ryuichi Ueda. All rights reserved.
+
 import rospy
 from std_msgs.msg import Int32
 
