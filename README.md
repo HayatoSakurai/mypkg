@@ -49,8 +49,10 @@ https://github.com/HayatoSakurai
 
 # 変更点
 元のノードから変更した点は以下のようになります  
+  
 https://github.com/HayatoSakurai/mypkg/blob/main/scripts/twice.py  
 上記リンクのtwice.pyにおいて10,16行目  
+  
 https://github.com/HayatoSakurai/mypkg/blob/main/scripts/fourth.py  
 fourth.pyは講義内のtwice.pyをもとに一部変更したノードとなっています  
 上記リンクのfourth.pyにおいて10,13,14,15,16行目
