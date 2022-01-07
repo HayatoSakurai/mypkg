@@ -37,3 +37,6 @@ $ rosrun mypkg twice.py
 ```
 $ rosrun mypkg fourth.py
 ```
+
+# 動画
+https://www.youtube.com/watch?v=zd7U8Zup3Io
