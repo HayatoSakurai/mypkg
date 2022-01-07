@@ -48,7 +48,7 @@ https://github.com/HayatoSakurai
 ノードは上田教授が作成したものをもとに作成しています
 
 # 変更点
-元のノードから変更した点は以下のようになります  
+もとのノードから変更した点は以下のようになります  
   
 https://github.com/HayatoSakurai/mypkg/blob/main/scripts/twice.py  
 上記リンクのtwice.pyにおいて変更点は以下になります  
