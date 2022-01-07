@@ -38,5 +38,8 @@ $ rosrun mypkg twice.py
 $ rosrun mypkg fourth.py
 ```
 
-# 動画
+# 実行結果
 https://www.youtube.com/watch?v=zd7U8Zup3Io
+
+# 製作者
+
