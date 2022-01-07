@@ -63,3 +63,6 @@ fourth.pyは講義内のtwice.pyをもとに一部変更したノードとなっ
 14行目:count_upをtwiceに変更  
 15行目:twiceをfourthに変更  
 16行目:10を1に変更
+
+#  ライセンス
+BSD 3-Clause License
