@@ -50,6 +50,10 @@ https://github.com/HayatoSakurai
 # 変更点
 もとのノードから変更した点は以下のようになります  
   
+https://github.com/HayatoSakurai/mypkg/blob/main/scripts/count.py  
+上記リンクのcount.pyにおいて変更点は以下になります  
+7行目:10を1に変更  
+  
 https://github.com/HayatoSakurai/mypkg/blob/main/scripts/twice.py  
 上記リンクのtwice.pyにおいて変更点は以下になります  
 10行目:rospy.loginfo(n)を追加  
