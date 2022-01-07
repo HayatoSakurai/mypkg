@@ -66,3 +66,4 @@ fourth.pyは講義内のtwice.pyをもとに一部変更したノードとなっ
 
 #  ライセンス
 BSD 3-Clause License
+https://github.com/HayatoSakurai/mypkg/blob/main/LICENSE　  
