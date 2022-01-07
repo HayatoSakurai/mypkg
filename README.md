@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=zd7U8Zup3Io
 https://github.com/ryuichiueda  
 https://github.com/HayatoSakurai  
   
-ノードは上田教授が作成したものをもとに作成しています
+ノードは上田准教授が作成したものをもとに作成しています准
 
 # 変更点
 もとのノードから変更した点は以下のようになります  
