@@ -42,4 +42,7 @@ $ rosrun mypkg fourth.py
 https://www.youtube.com/watch?v=zd7U8Zup3Io
 
 # 製作者
-https://github.com/ryuichiueda
+https://github.com/ryuichiueda  
+https://github.com/HayatoSakurai  
+  
+ノードは上田教授が作成したものをもとに作成しています
